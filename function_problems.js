@@ -32,7 +32,7 @@ function even(inputA) {
     return { finalEven, finalOdd }
 }
 
-let a = even([2, 5, 65, 41, 23, 201, 222, 8520,136])
+let a = even([2, 5, 65, 41, 23, 201, 222, 8520, 136])
 console.log(a)
-let b = even([4,01, 1, 664, 8, 54, 555, 7, 121, 0, 5545, 10, 41])
+let b = even([4,010 , 1, 664, 8, 54, 555, 7, 121, 0, 5545, 10, 41])
 console.log(b)
